@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Camp",
+    "cd": 5,
+    "money": 2000,
+    "next": "Camp",
+    "image": "RookieCamp",
+    "isDown": true,
+    "camptype": "±ø"
+  },
+  {
+    "name": "Camp",
+    "cd": 5,
+    "money": 2000,
+    "next": "Camp",
+    "image": "SergeantIcon",
+    "isDown": false,
+    "camptype": "Ì¹¿Ë"
+  }
+]
