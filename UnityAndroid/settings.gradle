@@ -1,0 +1,3 @@
+include ':U2A'
+include ':app'
+rootProject.name = "UnityAndroid"
